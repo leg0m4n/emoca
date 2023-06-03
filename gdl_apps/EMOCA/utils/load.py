@@ -1,4 +1,5 @@
 import sys
+sys.path.insert(0, '/home/avocoral/MemFace/emoca')
 from pathlib import Path
 
 from omegaconf import OmegaConf
